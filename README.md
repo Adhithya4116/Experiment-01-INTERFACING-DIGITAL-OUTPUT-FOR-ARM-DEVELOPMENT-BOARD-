@@ -168,12 +168,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 LED BLINK OFF:
-
 ![IMG_20230325_105412](https://user-images.githubusercontent.com/118707079/227700226-22733bee-bd15-4a4a-9470-ebfa224bde5f.jpg)
  
  
 LED BLINK ON:
-
 ![IMG_20230325_105358](https://user-images.githubusercontent.com/118707079/227700384-bafb7efa-f19e-438c-926a-e5e325095373.jpg)
 
  
